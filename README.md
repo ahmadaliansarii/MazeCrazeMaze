@@ -86,5 +86,5 @@ This game is primarily designed for **Windows console environments** due to the 
 
 This game was created by:
 
-*   **Jaswant Lal** (22K-4473)
 *   **Ahmad Ali Ansari** (22K-4385)
+*   **Jaswant Lal** (22K-4473)
